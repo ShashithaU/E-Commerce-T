@@ -1,0 +1,13 @@
+.progressBar{
+    color: wheat;
+
+    padding: 0 100px 0 100px;
+
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.ProgressContainer{
+    /* margin-right: 50px; */
+}
